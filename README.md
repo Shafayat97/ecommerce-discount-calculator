@@ -13,7 +13,7 @@ Many online stores run discounts that look great on revenue and quietly lose mon
 - how many **extra orders** you need just to earn the same profit
 - a plain-English **verdict**: run it, risky, or don't
 
-![Discount calculator](calculator_screenshot.png)
+![Discount calculator](discount-calculator/calculator_screenshot.png)
 
 ## How to use it
 
