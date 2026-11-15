@@ -17,7 +17,7 @@ Many online stores run discounts that look great on revenue and quietly lose mon
 
 ## How to use it
 
-1. [Download `Free_Discount_Calculator.xlsx`](Free_Discount_Calculator.xlsx) (click **Download raw file** on the next page).
+1. [Download `Free_Discount_Calculator.xlsx`](discount-calculator/Free_Discount_Calculator.xlsx) (click **Download raw file** on the next page).
 2. Open it in Microsoft Excel.
 3. Type your numbers in the yellow cells: average order value, product cost, shipping, ad cost per order, payment fee and the discount you are planning.
 4. Read the verdict and the table showing profit at every discount from 0% to 50%.
